@@ -1,2 +1,15 @@
+/* Styling for the main element */
+main.accio {
+  width: 150px;
+  height: 150px;
+  background-color: #000000; /* Black background */
+}
+
+/* Styling for the paragraph element */
+.hello-accio {
+  color: #ffffff; /* White text */
+  margin-left: 32px;
+  padding: 10px;
+}
 
 /* Your CSS Code here. */
